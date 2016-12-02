@@ -1,0 +1,37 @@
+ActivityArea - N
+Addresses - Y
+Applys - Y DONE
+Candidates - Y
+CandidatesPhones - Y
+CanWorkFors - X
+CareerLevels - X
+CountryRegions - X
+CoverLetterModels - X
+CoverLetters - Y
+Cvs - Y
+CvsLanguageLevelsLanguage - Y
+CvSkillCards - X
+CvsWorkingLicenses - X
+CvVisilibite - X 
+EducationLevels - X
+EmpoyementStatuses - X
+Entreprise - Y
+Files - Y
+Jobs - Y
+JobTypes - X
+LanguagesLevels - X
+Languages - X
+Phones
+PhoneTypes - X
+Professions - X
+ReadyToTravels - X
+Roles - X
+SkillCards - X
+SkillLevels - X
+StateProvinces - X
+Statuses - X
+Users
+WorkingLicenses - X
+
+
+FAIRE LES CANDIDATE / USER SELECTION AUTOMATIQUE FUCK
